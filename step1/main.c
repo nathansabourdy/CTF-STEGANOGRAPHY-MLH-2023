@@ -8,7 +8,7 @@ int main(int ac, char **av) {
         return 1;
     }
 
-    if (strcmp(av[1], "MLH{Epitech_F90N4SL9}") == 0) {
+    if (strcmp(av[1], "          v") == 0) {
         printf("Flag trouvé ! Bien joué ;)\n");
         return 0;
     } else {
